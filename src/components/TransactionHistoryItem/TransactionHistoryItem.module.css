@@ -1,0 +1,11 @@
+.conteinerItem{
+    padding-left: 55px;
+    width: 164px;
+    height: 40px;
+    border: 1px solid black;
+
+}
+
+.list:nth-child(even){
+    background-color: gray;
+}
